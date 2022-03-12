@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mikeyruc123
 - 👀 I’m interested in ... Computer Science, Music, Video Games, etc.
-- 🌱 I’m currently learning ... As much as I can
+- 🌱 I’m currently learning ... Artificial Intelligence, Internet Technology, Algorithms, and Japanese
 - 💞️ I’m looking to collaborate on ... Fun and usefull projects
 - 📫 How to reach me ... michaelrucando@gmail.com
 
